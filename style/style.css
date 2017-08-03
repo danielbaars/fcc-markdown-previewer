@@ -1,0 +1,9 @@
+body {
+  padding-top: 30px;
+}
+
+.header {
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
+  margin-bottom: 24px;
+}
